@@ -23,7 +23,7 @@ class Node:
     next: Node|None
 
 # Then your functions.
-
+#test
 # Task 2
 def parse_row(fields: list[str]) -> Row:
         new_row = Row(country = fields[0],
